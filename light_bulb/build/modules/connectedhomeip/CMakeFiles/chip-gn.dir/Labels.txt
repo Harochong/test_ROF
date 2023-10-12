@@ -1,0 +1,13 @@
+# Target labels
+ chip-gn
+# Source files and their labels
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/CMakeFiles/chip-gn
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/CMakeFiles/chip-gn.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/CMakeFiles/chip-gn-complete.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-build.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-configure.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-download.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-install.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-mkdir.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-patch.rule
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-update.rule

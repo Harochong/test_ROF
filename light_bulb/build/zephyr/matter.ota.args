@@ -1,0 +1,12 @@
+--vendor-id
+65521
+--product-id
+32773
+--version
+0
+--version-str
+prerelease
+--digest-algorithm
+sha256
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/zephyr/dfu_multi_image.bin
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/zephyr/matter.ota

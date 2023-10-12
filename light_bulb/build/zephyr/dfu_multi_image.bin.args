@@ -1,0 +1,8 @@
+create
+--image
+0
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/zephyr/app_update.bin
+--image
+1
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/zephyr/net_core_app_update.bin
+C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/zephyr/dfu_multi_image.bin

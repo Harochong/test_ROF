@@ -1,0 +1,12 @@
+# Generated file used for preloading a child image
+set(CMAKE_BUILD_TYPE "" CACHE INTERNAL "NCS child image controlled")
+set(CMAKE_VERBOSE_MAKEFILE "FALSE" CACHE INTERNAL "NCS child image controlled")
+set(BOARD_DIR "C:/ncs/v2.4.2/zephyr/boards/arm/nrf5340dk_nrf5340" CACHE INTERNAL "NCS child image controlled")
+set(ZEPHYR_TOOLCHAIN_VARIANT "zephyr" CACHE INTERNAL "NCS child image controlled")
+set(NCS_TOOLCHAIN_VERSION "NONE" CACHE INTERNAL "NCS child image controlled")
+set(WEST_PYTHON "C:/ncs/toolchains/31f4403e35/opt/bin/python.exe" CACHE INTERNAL "NCS child image controlled")
+set(BOARD "nrf5340dk_nrf5340_cpuapp" CACHE INTERNAL "NCS child image controlled")
+set(CONF_FILE "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/child_image/mcuboot/prj.conf" CACHE INTERNAL "NCS child image controlled")
+set(DTC_OVERLAY_FILE "C:/ncs/v2.4.2/nrf/modules/mcuboot/flash_sim.overlay;C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/child_image/mcuboot/boards/nrf5340dk_nrf5340_cpuapp.overlay" CACHE INTERNAL "NCS child image controlled")
+set(KCONFIG_ROOT "C:/ncs/v2.4.2/modules/lib/matter/config/nrfconnect/chip-module/Kconfig.mcuboot.root" CACHE INTERNAL "NCS child image controlled")
+set(OVERLAY_CONFIG "C:/ncs/v2.4.2/nrf/subsys/pcd/pcd.conf;C:/ncs/v2.4.2/nrf/subsys/partition_manager/ext_flash_mcuboot_secondary.conf;C:/ncs/v2.4.2/nrf/subsys/partition_manager/partition_manager_enabled.conf" CACHE INTERNAL "NCS child image controlled")

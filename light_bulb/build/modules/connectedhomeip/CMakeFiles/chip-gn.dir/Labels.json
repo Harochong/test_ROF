@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/CMakeFiles/chip-gn"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/CMakeFiles/chip-gn.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/CMakeFiles/chip-gn-complete.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-build.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-configure.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-download.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-install.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-mkdir.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-patch.rule"
+		},
+		{
+			"file" : "C:/ncs/v2.4.2/nrf/samples/matter/light_bulb/build/modules/connectedhomeip/src/chip-gn-stamp/chip-gn-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"chip-gn"
+		],
+		"name" : "chip-gn"
+	}
+}
